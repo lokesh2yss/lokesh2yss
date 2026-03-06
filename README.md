@@ -1,28 +1,93 @@
-Lokesh Kumar
-Senior Backend Engineer | Java | Spring Boot | Distributed Systems
+---
 
-About Me
-Backend engineer focused on scalable systems, microservices, and distributed architectures.
+# Lokesh Kumar
 
-Key Technologies
-Java | Spring Boot | Kafka | PostgreSQL | Neo4j | Kubernetes | System Design
+### Senior Backend Engineer | Java | Spring Boot | Distributed Systems
 
-Backend Systems Portfolio
+![Java](https://img.shields.io/badge/Java-Backend-blue)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-Microservices-brightgreen)
+![Kafka](https://img.shields.io/badge/Kafka-Event%20Streaming-black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
+![Neo4j](https://img.shields.io/badge/Neo4j-Graph%20Database-brightgreen)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue)
+![System Design](https://img.shields.io/badge/System%20Design-Distributed%20Systems-orange)
 
-Uber Backend System
-Ride lifecycle, driver matching, REST APIs
-Spring Boot • PostgreSQL
+---
 
-Zomato Backend System
-Food ordering platform backend
-Spring Boot • PostgreSQL
+## About Me
 
-LinkedIn Microservices Backend
-Microservices architecture with Kafka and Neo4j
-Spring Boot • Kafka • Neo4j • Kubernetes
+Backend engineer focused on building **scalable backend systems and distributed architectures**.
 
-Algorithmic Problem Solving
-800+ problems solved on LeetCode
+My interests include:
 
-Contact
-LinkedIn
+* backend service architecture
+* distributed systems
+* event-driven architectures
+* microservices design
+* scalable API platforms
+
+---
+
+## Key Technologies
+
+* Java
+* Spring Boot
+* Apache Kafka
+* PostgreSQL
+* Neo4j
+* Kubernetes
+* REST API Design
+* System Design
+
+---
+
+# Backend Systems Portfolio
+
+### Uber Backend System
+
+Ride lifecycle management, driver matching, and trip workflows.
+
+**Tech:** Spring Boot • PostgreSQL • PostGIS
+
+Repository:
+[https://github.com/lokesh2yss/uber-backend-system](https://github.com/lokesh2yss/uber-backend-system)
+
+---
+
+### Zomato Backend System
+
+Food ordering platform backend with restaurant discovery and delivery management.
+
+**Tech:** Spring Boot • PostgreSQL • PostGIS
+
+Repository:
+[https://github.com/lokesh2yss/zomato-backend-system](https://github.com/lokesh2yss/zomato-backend-system)
+
+---
+
+### LinkedIn Microservices Backend
+
+Distributed microservices architecture supporting professional networking features.
+
+**Tech:** Spring Boot • Kafka • Neo4j • Kubernetes
+
+Repository:
+[https://github.com/lokesh2yss/linkedin-microservice-backend](https://github.com/lokesh2yss/linkedin-microservice-backend)
+
+---
+
+# Algorithmic Problem Solving
+
+Solved **800+ Data Structures & Algorithms problems**.
+
+LeetCode Profile:
+[https://leetcode.com/u/lokeshtalks/](https://leetcode.com/u/lokeshtalks/)
+
+---
+
+# Contact
+
+LinkedIn:
+[https://www.linkedin.com/in/lokeshtalks](https://www.linkedin.com/in/lokeshtalks)
+
+---
