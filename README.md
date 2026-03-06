@@ -92,9 +92,6 @@ LinkedIn:
 
 ## GitHub Stats
 
-![Lokesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=lokesh2yss&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh2yss&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=lokesh2yss)
 
