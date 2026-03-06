@@ -50,7 +50,7 @@ Ride lifecycle management, driver matching, and trip workflows.
 **Tech:** Spring Boot • PostgreSQL • PostGIS
 
 Repository:
-[https://github.com/lokesh2yss/uber-backend-system](https://github.com/lokesh2yss/uber-backend-system)
+🔗 [Uber Backend System](https://github.com/lokesh2yss/uber-backend-system)
 
 ---
 
@@ -61,7 +61,7 @@ Food ordering platform backend with restaurant discovery and delivery management
 **Tech:** Spring Boot • PostgreSQL • PostGIS
 
 Repository:
-[https://github.com/lokesh2yss/zomato-backend-system](https://github.com/lokesh2yss/zomato-backend-system)
+🔗 [Zomato Backend System](https://github.com/lokesh2yss/zomato-backend-system)
 
 ---
 
@@ -70,9 +70,8 @@ Repository:
 Distributed microservices architecture supporting professional networking features.
 
 **Tech:** Spring Boot • Kafka • Neo4j • Kubernetes
-
 Repository:
-[https://github.com/lokesh2yss/linkedin-microservice-backend](https://github.com/lokesh2yss/linkedin-microservice-backend)
+🔗 [Linkedin Microservice Backend](https://github.com/lokesh2yss/linkedin-microservice-backend)
 
 ---
 
@@ -82,6 +81,14 @@ Solved **800+ Data Structures & Algorithms problems**.
 
 LeetCode Profile:
 [https://leetcode.com/u/lokeshtalks/](https://leetcode.com/u/lokeshtalks/)
+
+## GitHub Stats
+
+![Lokesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=lokesh2yss&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh2yss&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=lokesh2yss)
 
 ---
 
