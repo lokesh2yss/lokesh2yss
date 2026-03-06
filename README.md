@@ -81,6 +81,7 @@ Solved **800+ Data Structures & Algorithms problems**.
 
 LeetCode Profile:
 [https://leetcode.com/u/lokeshtalks/](https://leetcode.com/u/lokeshtalks/)
+---
 
 ## GitHub Stats
 
