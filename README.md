@@ -83,6 +83,13 @@ LeetCode Profile:
 [https://leetcode.com/u/lokeshtalks/](https://leetcode.com/u/lokeshtalks/)
 ---
 
+# Contact
+
+LinkedIn:
+[https://www.linkedin.com/in/lokeshtalks](https://www.linkedin.com/in/lokeshtalks)
+
+---
+
 ## GitHub Stats
 
 ![Lokesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=lokesh2yss&show_icons=true&theme=tokyonight)
@@ -91,11 +98,4 @@ LeetCode Profile:
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=lokesh2yss)
 
----
 
-# Contact
-
-LinkedIn:
-[https://www.linkedin.com/in/lokeshtalks](https://www.linkedin.com/in/lokeshtalks)
-
----
