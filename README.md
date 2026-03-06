@@ -1,16 +1,28 @@
-## Hi there 👋
+Lokesh Kumar
+Senior Backend Engineer | Java | Spring Boot | Distributed Systems
 
-<!--
-**lokesh2yss/lokesh2yss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
+Backend engineer focused on scalable systems, microservices, and distributed architectures.
 
-Here are some ideas to get you started:
+Key Technologies
+Java | Spring Boot | Kafka | PostgreSQL | Neo4j | Kubernetes | System Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Backend Systems Portfolio
+
+Uber Backend System
+Ride lifecycle, driver matching, REST APIs
+Spring Boot • PostgreSQL
+
+Zomato Backend System
+Food ordering platform backend
+Spring Boot • PostgreSQL
+
+LinkedIn Microservices Backend
+Microservices architecture with Kafka and Neo4j
+Spring Boot • Kafka • Neo4j • Kubernetes
+
+Algorithmic Problem Solving
+800+ problems solved on LeetCode
+
+Contact
+LinkedIn
